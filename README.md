@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnAdam-123
 - 👀 I’m interested in Machine Learning and Space Technology
-- 🌱 I’m currently working as a tutor, but wanna learn more on team project collaboration through version controls like Github.
+- 🌱 I’m currently working as a master's student and Research Assistant, but wanna keep and learn more on team project collaboration through version controls like Github.
 - 💞️ I’m looking to collaborate on Machine Learning and other programming projects.
 - 📫 How to reach me, here is my email: johnudomc@gmail.com
